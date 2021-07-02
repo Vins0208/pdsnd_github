@@ -10,9 +10,7 @@ Title: Explore Bike Share data for New York, Chicago, Washington
 Description: I studied the Bike Share data to understand the co-relation between gender and adoption of Bike Share services. There are far more male users as compared to female users, however the median age for both males and females is very close. However, males use Bike Share services for longer trip durations as compared to females.
 
 ### Files used
-new_york_city.csv
-washington.csv
-chicago.csv
+new_york_city.csv, washington.csv, chicago.csv
 
 ### Credits
 https://www.udemy.com/course/r-programming/learn/lecture/4652010#overview
